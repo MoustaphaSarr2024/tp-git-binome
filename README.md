@@ -1,2 +1,3 @@
-# TP Git Binôme
-tp git
+# project git binome
+
+Modification par le binome
