@@ -1,3 +1,3 @@
 # Projet Git Binôme
 
-nouvelle Modification par le binome
+nouvelle modification par le binome
